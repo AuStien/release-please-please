@@ -1,5 +1,4 @@
 {
-  "bump-minor-pre-major": true,
-  "skip-github-release": true
+  "bump-minor-pre-major": true
 }
 
