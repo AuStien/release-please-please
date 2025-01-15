@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://github.com/AuStien/release-please-please/compare/v0.3.0...v0.4.0) (2025-01-15)
+
+
+### Features
+
+* add workflow triggered by tag ([f401d9d](https://github.com/AuStien/release-please-please/commit/f401d9d327f56e70e0cd864fc30374cd8fe9e1e8))
+
 ## [0.3.0](https://github.com/AuStien/release-please-please/compare/v0.2.0...v0.3.0) (2025-01-14)
 
 
