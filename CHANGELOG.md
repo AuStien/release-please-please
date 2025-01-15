@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.4.2](https://github.com/AuStien/release-please-please/compare/v0.4.1...v0.4.2) (2025-01-15)
+
+
+### Bug Fixes
+
+* **ci:** any tag ([9c68652](https://github.com/AuStien/release-please-please/commit/9c68652d53f0a4503b727fc1603e8ca0a30cbd9f))
+* skip github release ([450e7ae](https://github.com/AuStien/release-please-please/commit/450e7aeb713423637aadd460be7152cc05f769d1))
+
 ## [0.4.1](https://github.com/AuStien/release-please-please/compare/v0.4.0...v0.4.1) (2025-01-15)
 
 
