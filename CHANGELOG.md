@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.1](https://github.com/AuStien/release-please-please/compare/v0.4.0...v0.4.1) (2025-01-15)
+
+
+### Bug Fixes
+
+* remove quotes ([72f9d57](https://github.com/AuStien/release-please-please/commit/72f9d57ae21a94bdeacf0940bb519112f812cf71))
+
 ## [0.4.0](https://github.com/AuStien/release-please-please/compare/v0.3.0...v0.4.0) (2025-01-15)
 
 
