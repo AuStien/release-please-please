@@ -1,14 +1,8 @@
 name: Echo
 
 on:
-  push:
-    tags:
-      - "*"
-  workflow_run:
-    workflows: ["release-please"]
-    types:
-      - completed
-
+  release:
+    types: [published]
 
 jobs:
   echo:
