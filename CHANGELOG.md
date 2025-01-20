@@ -1,5 +1,34 @@
 # Changelog
 
+## [0.5.0](https://github.com/AuStien/release-please-please/compare/v0.4.1...v0.5.0) (2025-01-20)
+
+
+### ⚠ BREAKING CHANGES
+
+* add aaa
+
+### Features
+
+* add aaa ([e66f906](https://github.com/AuStien/release-please-please/commit/e66f906bb7564794baae6c1b8869648abda86783))
+* don't skip github release ([f910277](https://github.com/AuStien/release-please-please/commit/f910277202e7ebad7f459ce0b3642481c6f89094))
+* switch to using github app ([5675dd8](https://github.com/AuStien/release-please-please/commit/5675dd8cc5647676cb483e0a529c2a9d633e9954))
+* use goreleaser ([8180904](https://github.com/AuStien/release-please-please/commit/8180904f18dfa84026813e3b1feb5c9e574d2e7d))
+
+
+### Bug Fixes
+
+* add mainfest ([8380ad3](https://github.com/AuStien/release-please-please/commit/8380ad34c2000787d06d2acc5de6217607852ac8))
+* add package ([9f54576](https://github.com/AuStien/release-please-please/commit/9f5457644f0e2f911d5d447fe88c41fcbbd2c15e))
+* add release type ([7b6dba8](https://github.com/AuStien/release-please-please/commit/7b6dba8bb0e82573cd1c786fee9f4d2e0b7c475c))
+* **ci:** any tag ([9c68652](https://github.com/AuStien/release-please-please/commit/9c68652d53f0a4503b727fc1603e8ca0a30cbd9f))
+* correct config ([d00e602](https://github.com/AuStien/release-please-please/commit/d00e602d90f9cec3f5bbe79fe44f188b9022713b))
+* hmm ([422ca29](https://github.com/AuStien/release-please-please/commit/422ca29a7aceb2be41d1510123c1ae65b8a798b5))
+* move release type inside package ([4b4faa7](https://github.com/AuStien/release-please-please/commit/4b4faa7c50cdc28cfc682e4660bbae9303a485d5))
+* remove extra bracket ([af338aa](https://github.com/AuStien/release-please-please/commit/af338aae47a488ab5d304f41eaa67cd1e680e304))
+* skip github release ([450e7ae](https://github.com/AuStien/release-please-please/commit/450e7aeb713423637aadd460be7152cc05f769d1))
+* to comma on last object in json... ([985af17](https://github.com/AuStien/release-please-please/commit/985af171c13897342dc27601ae897b27dab4a1ec))
+* trigger goreleaser on github release ([9bc7a32](https://github.com/AuStien/release-please-please/commit/9bc7a32da2c5f55e27d4f2a5d51dc42f2f28ef2c))
+
 ## [0.4.2](https://github.com/AuStien/release-please-please/compare/v0.4.1...v0.4.2) (2025-01-15)
 
 
