@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.5.2](https://github.com/AuStien/release-please-please/compare/v0.5.1...v0.5.2) (2025-01-21)
+
+
+### Bug Fixes
+
+* better commit message ([f6ea7de](https://github.com/AuStien/release-please-please/commit/f6ea7de094fa003292f3f3eadc27e5afad01505b))
+
 ## [0.5.1](https://github.com/AuStien/release-please-please/compare/v0.5.0...v0.5.1) (2025-01-21)
 
 
