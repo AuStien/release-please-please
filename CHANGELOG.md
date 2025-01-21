@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.5.1](https://github.com/AuStien/release-please-please/compare/v0.5.0...v0.5.1) (2025-01-21)
+
+
+### Bug Fixes
+
+* remove release-please manifest ([65354c2](https://github.com/AuStien/release-please-please/commit/65354c2e7ce7d42f99b0dd13ab41dcf7981d048c))
+* trigger ci on tag ([85a2cba](https://github.com/AuStien/release-please-please/commit/85a2cbaee43535f75f0f1b9bb77e3f8b391fa6b1))
+
+
+### Reverts
+
+* "fix: remove release-please manifest" ([e0850bf](https://github.com/AuStien/release-please-please/commit/e0850bfa9dc06d901b60fb26a66413a0903cf304))
+
 ## [0.5.0](https://github.com/AuStien/release-please-please/compare/v0.4.1...v0.5.0) (2025-01-20)
 
 
