@@ -1,6 +1,7 @@
 {
   "bump-minor-pre-major": true,
   "release-type": "go",
+  "pull-request-title-pattern": "docs: v${version}",
   "packages": {
     ".": {}
   },
