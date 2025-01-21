@@ -1,8 +1,9 @@
 name: Echo
 
 on:
-  release:
-    types: [published]
+  push:
+    tags:
+      - 'v*'
 
 jobs:
   echo:
