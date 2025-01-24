@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.6.0](https://github.com/AuStien/release-please-please/compare/v0.5.2...v0.6.0) (2025-01-24)
+
+
+### Features
+
+* use prerelease ([e8df72c](https://github.com/AuStien/release-please-please/commit/e8df72cc67579ac600b3d74062b82975bd6de798))
+
+
+### Bug Fixes
+
+* **ci:** dont do releases ([8941319](https://github.com/AuStien/release-please-please/commit/894131941b76f6bac732b0520d2f4d3002ac59ff))
+
 ## [0.5.2](https://github.com/AuStien/release-please-please/compare/v0.5.1...v0.5.2) (2025-01-21)
 
 
